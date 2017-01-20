@@ -6,4 +6,5 @@
 
 **Slack handle:** wheelm4
 
-**Photo:** !(Labs/mypic.png)
+**Photo:** ![optional caption text](labs/mypic.png)
+
