@@ -6,5 +6,5 @@
 
 **Slack handle:** wheelm4
 
-**Photo:** ![](master/mypic.png)
+**Photo:** ![](mypic.png)
 
