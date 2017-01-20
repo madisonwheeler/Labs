@@ -6,4 +6,4 @@
 
 **Slack handle:** wheelm4
 
-**Photo:** Screen Shot 2017-01-20 at 12.23.59 PM
+**Photo:** !(Labs/mypic.png)
