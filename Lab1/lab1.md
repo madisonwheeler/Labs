@@ -21,20 +21,17 @@
        **Photo:** ![](Lab1ManTree.png)
 
 
-e. Regex
+**e.** Regex
+       
+       **Practice Problem 8:** ![](RegexProblem8.1.png)
+       ![](RegexProblem8.2.png)
+       
+       **Crossword Problem 5:** ![](RegexCross5.png)
 
-In your Foundations of Computer Science class you learned about Regular expressions. (If you have not taken Foundations of Computer Science class, please talk to the instructor for an explanation)
-Please do all the practice problems given here (moving over Interactive Tutorial in the top right corner will get this).
-To get full credit, do at least 7 problems.
-Take a screenshot and add to lab1.md
-Go through the tutorials here
-Do all the problems and at least four problems on beginner level here.
-Take a screenshot and add to lab1.md
-(Optional But Recommended) Do problem 11 in adventofcode 2015 (You may use regular expression) http://adventofcode.com/2015/day/11
-f. Play with Snap or CSDT or Blockly
-
-Create some thing using either of the first two or solve this using blockly
-Add to lab1.md
+**f.**
+       **Blockly:** ![](Blockly.png)
+     
 
 **g.** So far I don't have a specific project/problem that intrests me but I am searching for projects. Right now, I 
-       am searching for projects using the GitHub Explore page as well as
+       am searching for projects using the GitHub Explore page for ideas. I know that I proabably don't want to work 
+       on a web based project or a game so I'm trying to find someting else that intrests me.
