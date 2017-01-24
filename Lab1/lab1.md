@@ -24,7 +24,7 @@
        **Practice Problem 8:** ![](RegexProblem8.1.png)
        ![](RegexProblem8.2.png)
        
-       **Crossword Problem 5:** ![](RegexCross5.png)
+       ![](RegexCross5.png)
 
 **f.**
        **Blockly:** ![](Blockly.png)
