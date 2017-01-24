@@ -20,9 +20,7 @@
 **d.**
        **Photo:** ![](Lab1ManTree.png)
 
-
-**e.** Regex
-       
+**e.**
        **Practice Problem 8:** ![](RegexProblem8.1.png)
        ![](RegexProblem8.2.png)
        
