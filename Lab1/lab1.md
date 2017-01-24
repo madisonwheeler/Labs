@@ -1,4 +1,4 @@
-**c. 2)** ![](RegexCross5.png)
+**c. 2)**
       * One suggestion I have is to do research on the person you're asking the question to. Make sure the person 
         you're asking is of the right skill level to answer your question.
       * A second suggestion I have is to ask your question with confidence, but don't be too overconfident. The more 
