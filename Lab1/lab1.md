@@ -23,7 +23,6 @@
 **e.**
        **Practice Problem 8:** ![](RegexProblem8.1.png)
        ![](RegexProblem8.2.png)
-       
        ![](RegexCross5.png)
 
 **f.**
