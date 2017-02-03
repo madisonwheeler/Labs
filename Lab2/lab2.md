@@ -36,6 +36,23 @@ common good, a GPL license would be better. This is because a diverse array of p
 this license.
 
 **8.Create a repository and choose a license.**
-Insert picture
+![](addlicense.png)
 
-**1.**
+**9. Write five sentences about choosing a project to work on in this course, who will be users/customers 
+of the project, and what license will you choose.**
+I'm still not 100% sure what project I'd like to work on for this course but I'd like it to be an already 
+exsisting project that I can contribute to rather than creating my own project from scratch. That way i can get 
+more experince with contributing to other open source projects and collaboration. Therefore, the license for 
+the project I choose will already be chosen by the creator of the project but I'm hoping it will be an MIT
+license. I'm thinking of contributing to music playing/writing similar to Alda or Radiant Music Player 
+except more open to beginner contributions.
+
+**10.**
+| Website                               | License Present? | License     |
+|---------------------------------------|------------------|-------------|
+| https://github.com/faroos3/pellio     | Yes              | MIT License |
+| https://github.com/andywu9/studybuddy | No               | None listed |
+| https://github.com/justinbot/timecard | Yes              | MIT License |
+| https://github.com/yacs-rcos/yacs     | Yes              | MIT License |
+| https://github.com/aesakamar/treeapp  | Yes              | MIT License |
+
