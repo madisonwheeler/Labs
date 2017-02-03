@@ -47,6 +47,15 @@ the project I choose will already be chosen by the creator of the project but I'
 license. I'm thinking of contributing to music playing/writing similar to Alda or Radiant Music Player 
 except more open to beginner contributions.
 
+| Left align | Right align | Center align |
+|:-----------|------------:|:------------:|
+| This       |        This |     This     
+| column     |      column |    column    
+| will       |        will |     will     
+| be         |          be |      be      
+| left       |       right |    center    
+| aligned    |     aligned |   aligned
+
 **10.**
 | Website                               | License Present? | License     |
 |---------------------------------------|------------------|-------------|
@@ -55,4 +64,7 @@ except more open to beginner contributions.
 | https://github.com/justinbot/timecard | Yes              | MIT License |
 | https://github.com/yacs-rcos/yacs     | Yes              | MIT License |
 | https://github.com/aesakamar/treeapp  | Yes              | MIT License |
+
+
+
 
