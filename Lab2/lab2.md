@@ -47,6 +47,7 @@ the project I choose will already be chosen by the creator of the project but I'
 license. I'm thinking of contributing to music playing/writing similar to Alda or Radiant Music Player 
 except more open to beginner contributions.
 
+**10.**
 | Website                               | License Present? | License       |
 |:--------------------------------------|-----------------:|:-------------:|
 | https://github.com/faroos3/pellio     |              Yes |  MIT License      
@@ -54,16 +55,3 @@ except more open to beginner contributions.
 | https://github.com/justinbot/timecard |              Yes |  MIT License  
 | https://github.com/yacs-rcos/yacs     |              Yes |  MIT License  
 | https://github.com/aesakamar/treeapp  |              Yes |  MIT License  
-
-**10.**
-| Website                               | License Present? | License     |
-|:--------------------------------------|:-----------------|:------------|
-| https://github.com/faroos3/pellio     | Yes              | MIT License 
-| https://github.com/andywu9/studybuddy | No               | None listed 
-| https://github.com/justinbot/timecard | Yes              | MIT License 
-| https://github.com/yacs-rcos/yacs     | Yes              | MIT License 
-| https://github.com/aesakamar/treeapp  | Yes              | MIT License 
-
-
-
-
