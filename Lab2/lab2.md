@@ -36,7 +36,7 @@ common good, a GPL license would be better. This is because a diverse array of p
 this license.
 
 **8.Create a repository and choose a license.**
-![](addlicense.png)
+![](addlicense.png) 
 
 **9. Write five sentences about choosing a project to work on in this course, who will be users/customers 
 of the project, and what license will you choose.**
