@@ -58,7 +58,7 @@ except more open to beginner contributions.
 
 **10.**
 | Website                               | License Present? | License     |
-|---------------------------------------|------------------|-------------|
+|:--------------------------------------|:-----------------|:------------|
 | https://github.com/faroos3/pellio     | Yes              | MIT License |
 | https://github.com/andywu9/studybuddy | No               | None listed |
 | https://github.com/justinbot/timecard | Yes              | MIT License |
