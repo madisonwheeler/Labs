@@ -1,4 +1,4 @@
-** Part 1: ** https://github.com/madisonwheeler/Exercise01
+Part 1: https://github.com/madisonwheeler/Exercise01
 
 ![](gitk.png)
 
