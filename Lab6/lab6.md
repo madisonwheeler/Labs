@@ -1,3 +1,4 @@
+''''''
 def generate_graph(words):
     from string import ascii_lowercase as lowercase
     G = nx.Graph(name="words")
@@ -47,7 +48,7 @@ if __name__ == '__main__':
                 print(n)
         except nx.NetworkXNoPath:
             print("None")
-
+'''
 
 
 **Tests:**
