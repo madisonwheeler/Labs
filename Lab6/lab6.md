@@ -1,9 +1,3 @@
-**Word Ladder:**
-import networkx as nx
-
-#-------------------------------------------------------------------
-#   The Words/Ladder graph of Section 1.1
-#-------------------------------------------------------------------
 def generate_graph(words):
     from string import ascii_lowercase as lowercase
     G = nx.Graph(name="words")
@@ -63,56 +57,96 @@ if __name__ == '__main__':
 
 
 **i. chaos to order**
-   chaos
-   chats
-   coats
-   colts
-   colas
-   codas
-   codes
-   coder
-   cider
-   eider
-   elder
-   older
-   order
+
+    chaos
+
+    chats
+
+    coats
+
+    colts
+
+    colas
+
+    codas
+
+    codes
+
+    coder
+
+    cider
+
+    eider
+
+    elder
+
+    older
+
+    order
 
 
 **ii. nodes to graph**
+    
     nodes
+    
     modes
+    
     moles
+    
     molds
+    
     golds
+    
     goads
+    
     grads
+    
     grade
+    
     grape
+    
     graph
 
 
 **iii. moron to smart**
-moron
-boron
-baron
-caron
-capon
-capos
-capes
-canes
-banes
-bands
-bends
-beads
-bears
-sears
-stars
-start
-smart
+
+    moron
+
+    boron
+
+    baron
+
+    caron
+
+    capon
+
+    capos
+
+    capes
+
+    canes
+
+    banes
+
+    bands
+
+    bends
+
+    beads
+
+    bears
+
+    sears
+
+    stars
+
+    start
+
+    smart
 
 
 **iv. pound to marks**
-There is no solution.
+    There is no solution.
 
 
 
@@ -120,17 +154,26 @@ There is no solution.
 
 
 **cold to warm**
+
 cold
+
 cord
+
 word
+
 worm
+
 warm
 
 
 **love to hate**
+
 love
+
 hove
+
 have
+
 hate
 
 
@@ -142,56 +185,89 @@ hate
 
 
 **i. chaos to order**
-   chaos
-   chose
-   chore
-   horde
-   order
+   
+       chaos
+
+       chose
+
+       chore
+
+       horde
+
+       order
 
 
 **ii. nodes to graph**
+    
     nodes
+    
     noses
+    
     oases
+    
     gases
+    
     gasps
+    
     grasp
+    
     graph
 
 
 **iii. moron to smart**
-     moron
-     morns
-     morts
-     marts
-     smart
+   
+       moron
+
+       morns
+
+       morts
+
+       marts
+
+       smart
 
 
 **iv. pound to marks**
-      pound
-      ponds
-      prods
-      pards
-      parks
-      marks
+     
+     pound
+     
+     ponds
+     
+     prods
+     
+     pards
+     
+     parks
+     
+     marks
 
 
 **Four Letter Words:**
 
 
 **cold to warm**
+
 cold
+
 coal
+
 carl
+
 char
+
 harm
+
 warm
 
 
 **love to hate**
+
 love
+
 hove
+
 have
+
 hate
 
 
@@ -200,99 +276,174 @@ hate
 
 
 **Words that precede and follow SLID:**
+
 said
+
 slim
+
 sled
+
 slit
+
 slip
+
 skid
 
 
 **Words that precede and follow DOTE:**
+
 tote
+
 dove
+
 dope
+
 doge
+
 dome
+
 dole
+
 dose
+
 note
+
 vote
+
 done
+
 date
+
 rote
+
 doze
 
 
 **Words that precede and follow HERD:**
+
 head
+
 hero
+
 herb
+
 hera
+
 hard
+
 here
+
 held
+
 heed
+
 herr
+
 hurd
 
 
 **Words that precede and follow OMEN:**
+
 oman
+
 oxen
+
 open
+
 oven
+
 amen
 
 
 **Words that precede and follow NINE:**
+
 dine
+
 vine
+
 mine
+
 nile
+
 nina
+
 tine
+
 pine
+
 none
+
 wine
+
 line
+
 sine
+
 fine
+
 nice
 
 **Words that precede and follow SELL:**
+
 bell
+
 self
+
 nell
+
 well
+
 dell
+
 cell
+
 fell
+
 seal
+
 hell
+
 yell
+
 sill
+
 tell
 
 
 **Words that precede and follow STAT:**
+
 star
+
 swat
+
 slat
+
 seat
+
 stag
+
 stab
+
 skat
+
 stan
+
 stay
+
 scat
+
 spat
 
 **Words that precede and follow WHAT:**
+
 whit
+
 wham
+
 whet
+
 chat
+
 that
 
 
