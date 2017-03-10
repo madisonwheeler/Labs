@@ -247,28 +247,28 @@ hate
 
 **cold to warm**
 
-cold
+    cold
 
-coal
+    coal
 
-carl
+    carl
 
-char
+    char
 
-harm
+    harm
 
-warm
+    warm
 
 
 **love to hate**
 
-love
+    love
 
-hove
+    hove
 
-have
+    have
 
-hate
+    hate
 
 
 
@@ -277,174 +277,174 @@ hate
 
 **Words that precede and follow SLID:**
 
-said
+    said
 
-slim
+    slim
 
-sled
+    sled
 
-slit
+    slit
 
-slip
+    slip
 
-skid
+    skid
 
 
 **Words that precede and follow DOTE:**
 
-tote
+    tote
 
-dove
+    dove
 
-dope
+    dope
 
-doge
+    doge
 
-dome
+    dome
 
-dole
+    dole
 
-dose
+    dose
 
-note
+    note
 
-vote
+    vote
 
-done
+    done
 
-date
+    date
 
-rote
+    rote
 
-doze
+    doze
 
 
 **Words that precede and follow HERD:**
 
-head
+    head
 
-hero
+    hero
 
-herb
+    herb
 
-hera
+    hera
 
-hard
+    hard
 
-here
+    here
 
-held
+    held
 
-heed
+    heed
 
-herr
+    herr
 
-hurd
+    hurd
 
 
 **Words that precede and follow OMEN:**
 
-oman
+    oman
 
-oxen
+    oxen
 
-open
+    open
 
-oven
+    oven
 
-amen
+    amen
 
 
 **Words that precede and follow NINE:**
 
-dine
+    dine
 
-vine
+    vine
 
-mine
+    mine
 
-nile
+    nile
 
-nina
+    nina
 
-tine
+    tine
 
-pine
+    pine
 
-none
+    none
 
-wine
+    wine
 
-line
+    line
 
-sine
+    sine
 
-fine
+    fine
 
-nice
+    nice
 
 **Words that precede and follow SELL:**
 
-bell
+    bell
 
-self
+    self
 
-nell
+    nell
 
-well
+    well
 
-dell
+    dell
 
-cell
+    cell
 
-fell
+    fell
 
-seal
+    seal
 
-hell
+    hell
 
-yell
+    yell
 
-sill
+    sill
 
-tell
+    tell
 
 
 **Words that precede and follow STAT:**
 
-star
+    star
 
-swat
+    swat
 
-slat
+    slat
 
-seat
+    seat
 
-stag
+    stag
 
-stab
+    stab
 
-skat
+    skat
 
-stan
+    stan
 
-stay
+    stay
 
-scat
+    scat
 
-spat
+    spat
 
 **Words that precede and follow WHAT:**
 
-whit
+    whit
 
-wham
+    wham
 
-whet
+    whet
 
-chat
+    chat
 
-that
+    that
 
 
 **Project Repository:** https://github.com/shanalily/DeepReader/blob/master/README.md
