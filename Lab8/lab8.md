@@ -1,5 +1,5 @@
 Shoshana and I fixed a grammar issue in FreeBSD's documentation Chapter 7.1 Multimedia Synopsis. 
-We changed some incorret uses of playback to play back. Here is a link to our bug request: 
+We changed an incorret use of playback to play back. Here is a link to our bug request: 
 https://bugs.freebsd.org/bugzilla/show_bug.cgi?id=218073.
 
 
