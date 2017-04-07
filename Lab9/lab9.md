@@ -92,3 +92,4 @@
             break
         i+=1
     print defs.find_one({"word":w})
+ 
