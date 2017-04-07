@@ -61,7 +61,7 @@
     print doc
 
     print "\nInsert"
-    post_id = defs.insert_one({"word": "Snufflepork", "definition": "grubblesnuff"})
+    post_id = defs.insert_one({"word": "Flugelhorn", "definition": "instrument"})
     print post_id
 
 
