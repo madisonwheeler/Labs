@@ -8,10 +8,22 @@
 
 **Checkpoint 3:**
 
+    > use csci2963
+    > db
+    > db.definitions
+    > db.definitions.find()
 ![](Checkpoint3.1.png)
+
+    > db.definitions.findOne()
 ![](Checkpoint3.2.png)
+
+    > db.definitions.find({word: "Capitaland"})
 ![](Checkpoint3.3.png)
+
+    > db.definitions.insert({word: <word here>, definition: <definition here>})
 ![](Checkpoint3.4.png)
+
+    >>> mongoexport --host=127.0.0.1 --db csci2963 --collection definitions --out definitions.json
 ![](Checkpoint3.5.png)
 
 
